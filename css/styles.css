@@ -3,3 +3,8 @@ h1 {
 	color: red;
 }
 
+a , a:hover , a:visited , a:active{
+	font-style: none;
+	text-decoration: none;
+	color: aqua;
+}
